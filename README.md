@@ -30,7 +30,7 @@ A real-time, two-player Connect Four game built with **React**, **TailwindCSS**,
 
    ```bash
    git clone https://github.com/dearbornadeolu/connect-four-websocket.git
-   cd connect-four-websocket
+   cd game
    ```
 
 2. **Install dependencies:**
